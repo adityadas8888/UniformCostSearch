@@ -36,11 +36,6 @@ directly those two cities. Each city name will be a single word (for
 example, we will use New_York instead of New York), consisting of upper
 and lowercase letters and possibly underscores.<br>
 <br>
-<span style="font-weight: bold;">IMPORTANT NOTE</span>:
-MULTIPLE INPUT FILES WILL BE USED TO GRADE THE
-ASSIGNMENT, FILE <a href="https://github.com/adityadas8888/UniformCostSearch_AI-1/blob/master/input1.txt">input1.txt</a>
-IS JUST AN EXAMPLE. YOUR CODE SHOULD WORK
-WITH ANY INPUT FILE FORMATTED AS SPECIFIED ABOVE.<br>
 <br>
 The program will compute a route between the origin city and the
 destination city, and will print out both the length of the route and
@@ -65,8 +60,6 @@ distance: infinity<br>
 route: <br>
 none<br>
 <br>
-For full credit, you should produce outputs identical in format to the
-above two examples.<br>
 <br>
 If instead your program uses the flag inf. It has to do informed search
 using the given heuristic. The heuristic file gives the estimate of

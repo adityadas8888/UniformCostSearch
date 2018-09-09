@@ -8,7 +8,7 @@
 <body>
 <div style="text-align: center;">
 <img alt="Figure 1: Visual representation of input1.txt" title="Figure 1: Visual representation of input1.txt" src="https://github.com/adityadas8888/UniformCostSearch_AI-1/blob/master/t1_p1.gif"><br>
-Figure 1: Textual representation of <a href="https://github.com/adityadas8888/UniformCostSearch_AI-1/blob/master/input1.txt">input1.txt</a></div>
+Figure 1: Text data of <a href="https://github.com/adityadas8888/UniformCostSearch_AI-1/blob/master/input1.txt">Input file</a></div>
 <br>
 Implement a search algorithm that can find a route between any two
 cities. Your program will be called find_route, and will take exactly

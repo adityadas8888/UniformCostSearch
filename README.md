@@ -1,16 +1,14 @@
 # UniformCostSearch_AI-1
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html><head>
-<!-- saved from url=(0066)file:///C:/Users/Vamsi/Desktop/ai1/2k15/Web_Old/assmts/pa/pa1.html -->
+
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><title>Assignment 1</title>
 
 </head>
 <body>
-<h1>Assignment 1</h1>
-<h2>Programming Assignment - Search</h2>
 <div style="text-align: center;">
-<img alt="Figure 1: Visual representation of input1.txt" title="Figure 1: Visual representation of input1.txt" src="Assignment%201_files/t1_p1.gif"><br>
-Figure 1: Visual representation of <a href="https://omega.uta.edu/~gopikrishnav/classes/2018/fall/4308_5360/assmts/assmt1_files/input1.txt">input1.txt</a></div>
+<img alt="Figure 1: Visual representation of input1.txt" title="Figure 1: Visual representation of input1.txt" src="https://github.com/adityadas8888/UniformCostSearch_AI-1/blob/master/t1_p1.gif"><br>
+Figure 1: Textual representation of <a href="https://github.com/adityadas8888/UniformCostSearch_AI-1/blob/master/input1.txt">input1.txt</a></div>
 <br>
 Implement a search algorithm that can find a route between any two
 cities. Your program will be called find_route, and will take exactly

@@ -1,0 +1,23 @@
+Luebeck 300
+Hamburg 200
+Hannover 100
+Berlin 200
+Bremen 200
+Dortmund 100
+Magdeburg 100
+Kassel 0
+Dresden 200
+Leipzig 100
+Duesseldorf 200
+Frankfurt 100
+Nuremberg 100
+Saarbruecken 200
+Karlsruhe 200
+Stuttgart 200
+Munich 200
+Manchester 500
+Birmingham 400
+Bristol 400
+London 300
+END OF INPUT
+
